@@ -1,0 +1,97 @@
+ PARKING     (ALL VALUES ARE NOT FINAL)
+
+
+
+
+Blue Left
+StartPose = (35 ,64, -90)
+P_left = (60, 16 , 270)
+P_middle = (34, 14, 270)
+P_right = (7, 17, 270)
+
+DEF_left = (60, 16, 0)
+DEF_middle = (34, 17, 0)
+DEF_right = (10, 17, 0)
+
+EXP_left =
+EXP_middle =
+EXP_right =
+
+OF_left = (60, 16, 0)
+OF_middle = (34, 17, 0)
+OF_right = (10, 17, 0)
+
+
+
+
+
+Red Left
+StartPose = (-35, -64, 90)
+P_left = (-60, -16, 90)
+P_middle = (-34, -17, 90)
+P_right = (-10, -17, 90)
+
+DEF_left = (-60, -16, 90)
+DEF_middle = (-34, -17, 90)
+DEF_right = (-10, -17, 90)
+
+EXP_left =
+EXP_middle =
+EXP_right =
+
+OF_left =
+OF_middle =
+OF_right =
+
+
+
+
+
+
+Blue Right
+StartPose = (-35, 64, -90)
+P_left = (-10, 17, 270)
+P_middle = (-34, 17, 270)
+P_right = (-60, 16, 270)
+
+DEF_left = (-10, 17, 270)
+DEF_middle = (-34, 17, 270)
+DEF_right = (-60, 16, 270)
+
+EXP_left =
+EXP_middle =
+EXP_right =
+
+OF_left = (-10 , 17, 270)
+OF_middle = (-34, 17, 270)
+OF_right = (-60, 16, 0)
+
+
+
+
+
+
+
+Red Right
+StartPose = (35, -64, 90)
+P_left = (10, -17, 90)
+P_middle = (34, -17, 90)
+P_right = (60, -16, 90)
+
+DEF_left = (10, -17, 90)
+DEF_middle = (34, -17, 90)
+DEF_right =(60, -16, 90)
+
+EXP_left =
+EXP_middle =
+EXP_right =
+
+OF_left =
+OF_middle =
+OF_right =
+
+I am gonna kill myself i fucking hate this shit so much, I have never felt so shitty and never hated myself this much before.
+How much more do I have to do
+How much more effort do i have to put in
+How long will it take
+I am sick, tired, hurt I cant do it anymore...
